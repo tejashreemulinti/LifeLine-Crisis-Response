@@ -1,0 +1,28 @@
+TITLE: LifeLine — Multi-Agent Crisis Response System
+DURATION: 60–90 seconds
+
+[0–5s]  
+Show project title and problem statement:
+“During crises, responders are overloaded. LifeLine automates emergency triage.”
+
+[5–15s]  
+Show architecture diagram:
+DetectionAgent → VerificationAgent → GeoAgent → CoordinatorAgent → ReporterAgent
+
+[15–30s]  
+Demonstrate real input:
+User message: “There is a major fire near MG Road, smoke everywhere!”
+
+[30–45s]  
+Show outputs:
+- classified as FIRE  
+- verified as true incident  
+- geolocation mapped  
+- report generated
+
+[45–60s]  
+Conclusion:
+"LifeLine uses Google ADK + multi-agent architecture to save time, save lives."
+
+End screen:  
+“Kaggle AI Agents Intensive — LifeLine”

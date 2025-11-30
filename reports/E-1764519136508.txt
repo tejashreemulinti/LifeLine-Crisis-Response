@@ -1,0 +1,5 @@
+Event: E-1764519136508
+Type: accident
+Coords: [None, None]
+Urgency: 0.7201422084017923
+Generated: 2025-11-30T16:12:16.508117

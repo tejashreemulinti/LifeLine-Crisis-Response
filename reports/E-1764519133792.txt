@@ -1,0 +1,5 @@
+Event: E-1764519133792
+Type: fire
+Coords: [None, None]
+Urgency: 0.8252557719698428
+Generated: 2025-11-30T16:12:13.792151

@@ -1,0 +1,21 @@
+{
+  "event_id": "E-1764519135623",
+  "type": "earthquake",
+  "coordinates": [
+    null,
+    null
+  ],
+  "urgency": 0.7038189933659832,
+  "historical_frequency": 0,
+  "verification": {
+    "image_verification": null,
+    "cross_source": []
+  },
+  "raw": {
+    "id": "m3",
+    "text": "Strong tremors felt in Sector 21, buildings shaking - earthquake?",
+    "ts": "2025-11-30T15:57:13.415257"
+  },
+  "generated_at": "2025-11-30T16:12:15.623721",
+  "needs_human_review": false
+}

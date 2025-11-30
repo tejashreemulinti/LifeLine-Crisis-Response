@@ -1,0 +1,21 @@
+{
+  "event_id": "E-1764519133792",
+  "type": "fire",
+  "coordinates": [
+    null,
+    null
+  ],
+  "urgency": 0.8252557719698428,
+  "historical_frequency": 0,
+  "verification": {
+    "image_verification": null,
+    "cross_source": []
+  },
+  "raw": {
+    "id": "m1",
+    "text": "Massive fire in Bandra West, buildings ablaze, people trapped!",
+    "ts": "2025-11-30T15:42:13.414223"
+  },
+  "generated_at": "2025-11-30T16:12:13.792151",
+  "needs_human_review": false
+}

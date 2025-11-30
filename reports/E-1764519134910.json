@@ -1,0 +1,21 @@
+{
+  "event_id": "E-1764519134910",
+  "type": "flood",
+  "coordinates": [
+    null,
+    null
+  ],
+  "urgency": 0.8238189933659832,
+  "historical_frequency": 0,
+  "verification": {
+    "image_verification": null,
+    "cross_source": []
+  },
+  "raw": {
+    "id": "m2",
+    "text": "Water levels rising near Riverside Avenue; cars floating, people need rescue",
+    "ts": "2025-11-30T15:47:13.414223"
+  },
+  "generated_at": "2025-11-30T16:12:14.910804",
+  "needs_human_review": false
+}
